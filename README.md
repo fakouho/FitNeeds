@@ -136,47 +136,6 @@
 |![image](https://github.com/Eehnodu/Portfolio/assets/155121578/906efd8b-648d-464c-97e2-9d42f6b2ab82)|![image](https://github.com/Eehnodu/Portfolio/assets/155121578/0ed2e567-9a0f-45d9-b166-54c6d5528e11)|
 
 
-
-
-## 👨‍👩‍👦‍👦 팀원 역할
-<table>
-  <tr>
-    <td align="center"><img src="https://i.namu.wiki/i/GirsrnQUH-q5qbVv871h4zLg_H1X25k25qY-Vr5DcO6xV8MWdcENwySAA0M62Xyurjt3ezZUbPm7GoVYJRRXWGIAXpWJ0_zsEH0mxNsLH2S_GX54w9exBaOg6io06JjbYZRHQiPSyUwPoLzRFA5aeQ.webp" width="100" height="100"/></td>
-    <td align="center"><img src="https://mb.ntdtv.kr/assets/uploads/2019/01/Screen-Shot-2019-01-08-at-4.31.55-PM-e1546932545978.png" width="100" height="100"/></td>
-    <td align="center"><img src="https://github.com/2024-SMHRD-KDT-BigData-23/FitNeeds/assets/155136709/60cfda0f-23f4-4e5d-a953-12565033b91b" height="100"/></td>
-    <td align="center"><img src="https://i.pinimg.com/236x/ed/bb/53/edbb53d4f6dd710431c1140551404af9.jpg" width="100" height="100"/></td>
-    <td align="center" width="20%"><img src="https://github.com/2024-SMHRD-KDT-BigData-23/NTAS/assets/76952340/aaae7886-cce2-4247-84e4-ff1cd435934e" height="150"/></td>
-  </tr>
-  <tr>
-    <td align="center"><strong>강아람</strong></td>
-    <td align="center"><strong>강우석</strong></td>
-    <td align="center"><strong>우동희</strong></td>
-    <td align="center"><strong>조범수</strong></td>
-    <td align="center"><strong>이지훈</strong></td>
-  </tr>
-  <tr>
-    <td align="center"><b>Front-end</b></td>
-    <td align="center"><b>Front-end</b></td>
-    <td align="center"><b>Back-end</b></td>
-    <td align="center"><b>Back-end</b></td>
-    <td align="center"><b>Back-end</b></td>
-  </tr>
-  <tr>
-    <td align="center"><a href="https://github.com/zzoorong/ARAM" target='_blank'>github</a></td>
-    <td align="center"><a href="https://github.com/fakouho" target='_blank'>github</a></td>
-    <td align="center"><a href="https://github.com/Eehnodu" target='_blank'>github</a></td>
-    <td align="center"><a href="https://github.com/beomsu-j" target='_blank'>github</a></td>
-    <td align="center"><a href="https://github.com/dlwlgnsrhy" target='_blank'>github</a></td>
-  </tr>
-  <tr>
-    <td align="center"><b>반응형 웹 세팅<br><br> UI/UX 디자인 <br><br> 전체 페이지 제작 <br><br> Bootstrap/Js 기능구현 <br><br> HTML/CSS/JS 오류수정 </td>
-    <td align="center"><b>UI/UX 디자인 <br><br> 전체적인 프론트영역 구현 <br><br> 회원가입 페이지 <br><br> 서비스 소개페이지 구현 <br><br> 프론트엔드 오류수정 전담 <br><br> 발표</b></td>
-    <td align="center"><b>DB 설계 및 구축<br>회원관리기능<br><br>비밀번호 암호화 기능<br><br>사용자의 운동, 체중 입력 기능<br><br>신체변화와 운동정보 차트 구현<br><br>Fullcalendar<br><br>일정 추가, 수정, 삭제 기능<br><br>PT예약 일정 연동 기능</b></td>
-    <td align="center"><b>예약페이지 구현 <br><br> Chart.js 구현<br><br> 트레이너 DB 구현 <br><br> MVC패턴 구체화 <br><br> 시연 영상 및 편집 </b></td>
-    <td align="center"><b>PM<br><br>네이버 로그인 api<br><br> Fullcalendar api <br><br> 뉴스 및 블로그서비스 <br><br> 비교페이지 디자인 <br><br>ppt제작 </b></td>
-  </tr>
-</table>
-
 ## 🤾‍♂️ 트러블슈팅
 
 
@@ -429,4 +388,45 @@ function fetchCompareChart() {
 									</div>
 ```
 </details>
+
+
+
+## 👨‍👩‍👦‍👦 팀원 역할
+<table>
+  <tr>
+    <td align="center"><img src="https://i.namu.wiki/i/GirsrnQUH-q5qbVv871h4zLg_H1X25k25qY-Vr5DcO6xV8MWdcENwySAA0M62Xyurjt3ezZUbPm7GoVYJRRXWGIAXpWJ0_zsEH0mxNsLH2S_GX54w9exBaOg6io06JjbYZRHQiPSyUwPoLzRFA5aeQ.webp" width="100" height="100"/></td>
+    <td align="center"><img src="https://mb.ntdtv.kr/assets/uploads/2019/01/Screen-Shot-2019-01-08-at-4.31.55-PM-e1546932545978.png" width="100" height="100"/></td>
+    <td align="center"><img src="https://github.com/2024-SMHRD-KDT-BigData-23/FitNeeds/assets/155136709/60cfda0f-23f4-4e5d-a953-12565033b91b" height="100"/></td>
+    <td align="center"><img src="https://i.pinimg.com/236x/ed/bb/53/edbb53d4f6dd710431c1140551404af9.jpg" width="100" height="100"/></td>
+    <td align="center" width="20%"><img src="https://github.com/2024-SMHRD-KDT-BigData-23/NTAS/assets/76952340/aaae7886-cce2-4247-84e4-ff1cd435934e" height="150"/></td>
+  </tr>
+  <tr>
+    <td align="center"><strong>강아람</strong></td>
+    <td align="center"><strong>강우석</strong></td>
+    <td align="center"><strong>우동희</strong></td>
+    <td align="center"><strong>조범수</strong></td>
+    <td align="center"><strong>이지훈</strong></td>
+  </tr>
+  <tr>
+    <td align="center"><b>Front-end</b></td>
+    <td align="center"><b>Front-end</b></td>
+    <td align="center"><b>Back-end</b></td>
+    <td align="center"><b>Back-end</b></td>
+    <td align="center"><b>Back-end</b></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/zzoorong/ARAM" target='_blank'>github</a></td>
+    <td align="center"><a href="https://github.com/fakouho" target='_blank'>github</a></td>
+    <td align="center"><a href="https://github.com/Eehnodu" target='_blank'>github</a></td>
+    <td align="center"><a href="https://github.com/beomsu-j" target='_blank'>github</a></td>
+    <td align="center"><a href="https://github.com/dlwlgnsrhy" target='_blank'>github</a></td>
+  </tr>
+  <tr>
+    <td align="center"><b>반응형 웹 세팅<br><br> UI/UX 디자인 <br><br> 전체 페이지 제작 <br><br> Bootstrap/Js 기능구현 <br><br> HTML/CSS/JS 오류수정 </td>
+    <td align="center"><b>UI/UX 디자인 <br><br> 전체적인 프론트영역 구현 <br><br> 회원가입 페이지 <br><br> 서비스 소개페이지 구현 <br><br> 프론트엔드 오류수정 전담 <br><br> 발표</b></td>
+    <td align="center"><b>DB 설계 및 구축<br>회원관리기능<br><br>비밀번호 암호화 기능<br><br>사용자의 운동, 체중 입력 기능<br><br>신체변화와 운동정보 차트 구현<br><br>Fullcalendar<br><br>일정 추가, 수정, 삭제 기능<br><br>PT예약 일정 연동 기능</b></td>
+    <td align="center"><b>예약페이지 구현 <br><br> Chart.js 구현<br><br> 트레이너 DB 구현 <br><br> MVC패턴 구체화 <br><br> 시연 영상 및 편집 </b></td>
+    <td align="center"><b>PM<br><br>네이버 로그인 api<br><br> Fullcalendar api <br><br> 뉴스 및 블로그서비스 <br><br> 비교페이지 디자인 <br><br>ppt제작 </b></td>
+  </tr>
+</table>
 
